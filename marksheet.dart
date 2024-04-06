@@ -6,7 +6,7 @@ print("Roll No : 605573");
   num ICT = 95;
   num DSA = 93;
   num PF  = 94;
-  num ENG = 89;
+  num ENG = 99;
   num total = OOP+ICT+DSA+PF+ENG;
   print("Total Marks : 500");
   print("Obtaind Marks : $total");
