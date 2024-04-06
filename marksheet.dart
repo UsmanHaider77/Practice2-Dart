@@ -5,7 +5,7 @@ print("Roll No : 605573");
   num OOP = 90;
   num ICT = 95;
   num DSA = 93;
-  num PF  = 91;
+  num PF  = 94;
   num ENG = 89;
   num total = OOP+ICT+DSA+PF+ENG;
   print("Total Marks : 500");
